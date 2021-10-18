@@ -1,13 +1,13 @@
-# centos-apache-repo
+# apache-homedecor
 
 
 run the following commands to download this repo in your computer.
 
 cd to your Desktop and run the following
 
-## git clone https://github.com/saravanak1900/centos-apache-repo.git
+## git clone https://github.com/hharishma8/apache-homedecor.git 
 
-## cd centos-apache-repo
+## cd apache-homedecor
 
-## docker build -t saravanak1900/centos-apache:latest -t saravanak1900/centos-apache:1.0.0 .
+## docker build -t hharishma8/apache-homedecor:latest -t hharishma8/apache-homedecor:1.0.0 .
 
